@@ -22,21 +22,25 @@ With AI-powered insights, streak tracking, and progress visualization, Habitara 
 
 ## 📸 Screenshots  
 
+
+## 📸 Screenshots  
+
 ### 📊 Dashboard  
-![Dashboard](./screenshots/dashboard.png)  
+![Dashboard](https://raw.githubusercontent.com/your-username/your-repo/main/screenshots/dashboard.png)  
 
 ### ✅ Tracking  
-![Tracking](./screenshots/tracking.png)  
+![Tracking](https://raw.githubusercontent.com/your-username/your-repo/main/screenshots/tracking.png)  
 
 ### 🤖 AI Insights  
-![AI Insights](./screenshots/insights.png)  
+![AI Insights](https://raw.githubusercontent.com/your-username/your-repo/main/screenshots/insights.png)  
 
 ### ⚙️ Settings (Dark Mode)  
-![Settings Dark](./screenshots/settings-dark.png)  
+![Settings Dark](https://raw.githubusercontent.com/your-username/your-repo/main/screenshots/settings-dark.png)  
 
 ### ⚙️ Settings (Hindi - Light Mode)  
-![Settings Hindi](./screenshots/settings-hindi.png)  
+![Settings Hindi](https://raw.githubusercontent.com/your-username/your-repo/main/screenshots/settings-hindi.png)  
 
+---
 
 
 🌍 Roadmap
