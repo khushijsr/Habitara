@@ -19,21 +19,55 @@ With AI-powered insights, streak tracking, and progress visualization, Habitara 
 ✅ Multi-Language Support – English 🇺🇸 & Hindi 🇮🇳.
 
 
-📸 Screenshots
-📊 Dashboard
-![Dashboard](./Screenshot%202025-08-30%20at%207.37.17 PM.png)
 
-✅ Tracking
-![Tracking](./Screenshot%202025-08-30%20at%207.37.42 PM.png)
+## 📸 Screenshots  
 
-🤖 AI Insights
-![AI Insights](./Screenshot%202025-08-30%20at%207.38.00 PM.png)
+### 📊 Dashboard  
+![Dashboard](./screenshots/dashboard.png)  
 
-⚙️ Settings (Dark Mode)
-![Settings Dark](./Screenshot%202025-08-30%20at%207.38.37 PM.png)
+### ✅ Tracking  
+![Tracking](./screenshots/tracking.png)  
 
-⚙️ Settings (Hindi - Light Mode)
-![Settings Hindi](./Screenshot%202025-08-30%20at%207.38.55 PM.png)
+### 🤖 AI Insights  
+![AI Insights](./screenshots/insights.png)  
+
+### ⚙️ Settings (Dark Mode)  
+![Settings Dark](./screenshots/settings-dark.png)  
+
+### ⚙️ Settings (Hindi - Light Mode)  
+![Settings Hindi](./screenshots/settings-hindi.png)  
+
+
+
+🌍 Roadmap
+
+◻️ Add notifications & reminders
+
+◻️ Export progress reports
+
+◻️ More AI insights & predictive analysis
+
+◻️ Social sharing & community challenges
+
+
+
+
+🏆 Achievements
+
+✨ Week Warrior 🏅 – 7+ day streak
+
+✨ Habit Builder 🏗️ – Created 5+ habits
+
+✨ Perfectionist 💎 – 90%+ success rate
+
+
+
+🤝 Contributing
+Contributions are welcome! Please fork this repo and submit a pull request.
+
+
+
+
 
 
 
