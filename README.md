@@ -91,7 +91,7 @@ AI Insights: Rule-based / LLM-powered analysis
 
 Clone this repository
 
-git clone https://github.com/your-username/Habitara.git
+git clone https://github.com/your-khushijsr/Habitara.git
 cd Habitara
 
 
