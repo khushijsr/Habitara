@@ -113,7 +113,7 @@ streamlit run app.py
 
 
 Open in browser at:
-👉 http://localhost:8501
+👉[ http://localhost:8501](https://habitara-habit-angle.my.canva.site/)
 
 📂 Project Structure
 Habitara/
