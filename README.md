@@ -1,4 +1,4 @@
-Habitara – AI-Powered Habit Tracker
+#Habitara – AI-Powered Habit Tracker
 
 Habitara is a multi-page AI-powered habit tracking web app built with Python, Streamlit, and SQLite. It helps users build and maintain habits with a professional dashboard, AI insights, reminders, and progress tracking.
 
