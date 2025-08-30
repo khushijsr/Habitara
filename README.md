@@ -36,3 +36,5 @@ With AI-powered insights, streak tracking, and progress visualization, Habitara 
 ![Settings Hindi](./Screenshot%202025-08-30%20at%207.38.55 PM.png)
 
 
+
+
